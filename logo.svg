@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_1" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 506.27 202.28">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #a59053;
+        stroke-miterlimit: 10;
+        stroke-width: 5px;
+      }
+
+      .cls-2 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-3 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-4 {
+        fill: #4f4f4f;
+        font-family: NotoSansJP-Regular, 'Noto Sans JP';
+        font-size: 60px;
+        font-variation-settings: 'wght' 400;
+      }
+
+      .cls-5 {
+        letter-spacing: -.02em;
+      }
+    </style>
+  </defs>
+  <g>
+    <polygon class="cls-1" points="381.38 19.83 381.38 53.71 410.73 70.65 440.07 53.71 440.07 19.83 410.73 2.89 381.38 19.83"/>
+    <polygon class="cls-1" points="396.18 95.2 425.52 78.26 425.52 44.37 396.18 27.43 366.83 44.37 366.83 78.26 396.18 95.2"/>
+    <polygon class="cls-1" points="454.68 78.49 454.68 44.61 425.34 27.67 395.99 44.61 395.99 78.49 425.34 95.43 454.68 78.49"/>
+  </g>
+  <text class="cls-4" transform="translate(0 77.56)"><tspan x="0" y="0">Nail </tspan><tspan class="cls-2" x="124.14" y="0">É</tspan><tspan x="158.64" y="0">cl</tspan><tspan class="cls-5" x="206.28" y="0">a</tspan><tspan class="cls-3" x="238.98" y="0">t</tspan><tspan x="259.98" y="0">ant</tspan></text>
+  <text/>
+</svg>
